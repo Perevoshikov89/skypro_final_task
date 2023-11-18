@@ -1,3 +1,11 @@
+.container {
+	width: 1500px;
+	height: 400px;
+	background-image: linear-gradient(to right, #E2BCBB, #bd4c47);
+	}
+	.col-1-2 {
+	width: 50%;
+	}
 .logo {
 	 float: left;
 }
@@ -29,4 +37,3 @@
  ol {
 	 color: #008000
 }
-
